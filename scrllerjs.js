@@ -7,7 +7,6 @@
       var ele = document.querySelector("/* put css selector for element here */");
       if (isVisible(ele) && ele.getBoundingClientRect().top + window.scrollY < pos) {
         //code to execute when top of element enters the screen
-        this.alert('HEY');
       }
     } else {
       // code when scrolling up is here
