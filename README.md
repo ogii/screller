@@ -1,4 +1,4 @@
-# screller
+# scrller
 
 # Introduction
 
